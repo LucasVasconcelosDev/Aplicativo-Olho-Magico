@@ -18,6 +18,8 @@ Baixe nosso aplicativo em seu dispositivo móvel
 
 - **Download do APK neste repositôrio**
 
+**OBS: O aplicativo movel não tem suporte para Síndico e Porteiro**
+
 ## 📋 Funcionalidades
 
 O sistema **Olho Mágico** possui diferentes tipos de usuários, cada um com permissões específicas:
