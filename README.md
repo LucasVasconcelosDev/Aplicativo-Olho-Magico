@@ -2,6 +2,22 @@
 
 **Olho Mágico** é um sistema de gerenciamento de condomínio focado na comunicação eficiente entre o prédio e os moradores. Ao invés de priorizar a interação entre os próprios moradores, o aplicativo oferece funcionalidades voltadas para a gestão de processos administrativos, controle de visitantes e encomendas, agendamento de espaços comuns, entre outras funções essenciais para a administração de um condomínio.
 
+## 🤔 Como Acessar?
+
+### 🌐 Acesso Online
+
+Você pode testar o sistema diretamente na versão hospedada:
+
+- **Link para o sistema hospedado:** [Acesse o Olho Mágico](https://front-end-olho-magico.vercel.app/)
+
+**OU**
+
+### 📱 Aplicativo Movel
+
+Baixe nosso aplicativo em seu dispositivo móvel
+
+**Download do APK neste repositôrio**
+
 ## 📋 Funcionalidades
 
 O sistema **Olho Mágico** possui diferentes tipos de usuários, cada um com permissões específicas:
@@ -25,22 +41,6 @@ O sistema **Olho Mágico** possui diferentes tipos de usuários, cada um com per
 - Acessar avisos criados pelo síndico.
 - Registrar visitantes e prestadores de serviços, incluindo habilitar ou desabilitar a entrada deles.
 - Registrar veículos para controle de entrada e saída.
-
-## 🤔 Como Acessar?
-
-### 🌐 Acesso Online
-
-Você pode testar o sistema diretamente na versão hospedada:
-
-- **Link para o sistema hospedado:** [Acesse o Olho Mágico](https://front-end-olho-magico.vercel.app/)
-
-**OU**
-
-### 📱 Aplicativo Movel
-
-Baixe nosso aplicativo em seu dispositivo móvel
-
-**Download do APK neste repositôrio**
 
 
 ## 👤 Logins Globais
