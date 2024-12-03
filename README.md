@@ -16,7 +16,7 @@ Você pode testar o sistema diretamente na versão hospedada:
 
 Baixe nosso aplicativo em seu dispositivo móvel
 
-**Download do APK neste repositôrio**
+- **Download do APK neste repositôrio**
 
 ## 📋 Funcionalidades
 
