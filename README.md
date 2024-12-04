@@ -65,8 +65,26 @@ Esses logins permitem que você acesse o sistema e explore as funcionalidades di
 
 ## 🚀 Tecnologias
 
+- [React](https://react.dev/) (Front-End)
+- [ReactNative](https://reactnative.dev/) (Mobile)
 - [Node.js](https://nodejs.org/) (Back-end)
 - [MySQL](https://www.mysql.com/) (para banco de dados)
 - [Npm](https://www.npmjs.com/) (gerenciador de pacotes)
-- **Firebase Cloud Messaging (FCM)** (Push Notifications)
 - [Azure](https://azure.microsoft.com/pt-br/get-started/azure-portal/) (Hospedagem de toda a infraestrutura do projeto)
+- **Firebase Cloud Messaging (FCM)** (Push Notifications)
+
+## 💻 Desenvolvedores
+
+### Back-End
+- [Miguel Pereira](https://github.com/Miguel1DM)
+- [Vinicius Gomes](https://github.com/VGLink)
+- [Daniel Medrado](https://github.com/ren-angel)
+
+### Front-End
+- [Alexsandra Campos](https://github.com/AlexsandraMCampos)
+- [Vinicius Castro](https://github.com/Vinecastro)
+- [Yago Rodrigues](https://github.com/HyRss)
+
+### Mobile
+- [Rafael Novais](https://github.com/oN0V41S)
+- [Lucas Vasconcelos](https://github.com/LucasVasconcelosDev)
