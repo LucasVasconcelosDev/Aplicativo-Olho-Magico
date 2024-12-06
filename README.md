@@ -10,13 +10,11 @@ Você pode testar o sistema diretamente na versão hospedada:
 
 - **Link para o sistema hospedado:** [Acesse o Olho Mágico](https://front-end-olho-magico.vercel.app/)
 
-**OU**
-
 ### 📱 Aplicativo Movel
 
 Baixe nosso aplicativo em seu dispositivo móvel
 
-- **Download do APK neste repositôrio**
+- **Download do APK:** [Acesse o Aplicativo Movel](https://bit.ly/Olho-Magico-APK)
 
 **OBS: O aplicativo movel não tem suporte para Síndico e Porteiro**
 
